@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "updatedAt": null,
+  "eventName": "Turnier",
+  "logoUrl": "",
+  "nextGroup": "",
+  "lastGroup": "",
+  "note": "",
+  "groups": [
+    {
+      "id": "g1",
+      "name": "Gruppe 1",
+      "qualified": true,
+      "placement": 1,
+      "heats": [
+        {
+          "label": "Lauf 1",
+          "time": ""
+        },
+        {
+          "label": "Lauf 2",
+          "time": ""
+        },
+        {
+          "label": "Lauf 3",
+          "time": ""
+        }
+      ],
+      "semifinal": "",
+      "thirdPlace": "",
+      "final": ""
+    },
+    {
+      "id": "g2",
+      "name": "Gruppe 2",
+      "qualified": true,
+      "placement": 2,
+      "heats": [
+        {
+          "label": "Lauf 1",
+          "time": ""
+        },
+        {
+          "label": "Lauf 2",
+          "time": ""
+        },
+        {
+          "label": "Lauf 3",
+          "time": ""
+        }
+      ],
+      "semifinal": "",
+      "thirdPlace": "",
+      "final": ""
+    }
+  ]
+}
