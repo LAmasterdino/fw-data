@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T19:01:34.179Z",
+  "updatedAt": "2026-06-05T19:02:49.222Z",
   "eventName": "Turnier",
   "logoUrl": "",
   "nextGroup": "",
@@ -81,6 +81,29 @@
       "name": "Gruppe 4",
       "qualified": false,
       "placement": "4",
+      "heats": [
+        {
+          "label": "Lauf 1",
+          "time": ""
+        },
+        {
+          "label": "Lauf 2",
+          "time": ""
+        },
+        {
+          "label": "Lauf 3",
+          "time": ""
+        }
+      ],
+      "semifinal": "",
+      "thirdPlace": "",
+      "final": ""
+    },
+    {
+      "id": "g_yaqkgwg_mq1akgck",
+      "name": "Gruppe 5",
+      "qualified": false,
+      "placement": "",
       "heats": [
         {
           "label": "Lauf 1",
