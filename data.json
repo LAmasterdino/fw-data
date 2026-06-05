@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T19:16:36.242Z",
+  "updatedAt": "2026-06-05T19:17:14.098Z",
   "eventName": "Turnier",
   "logoUrl": "",
   "nextGroup": "Glitzer",
-  "lastGroup": "Nächster",
+  "lastGroup": "letzter ",
   "note": "",
   "groups": [
     {
@@ -23,7 +23,7 @@
         },
         {
           "label": "Lauf 3",
-          "time": ""
+          "time": "56,78"
         }
       ],
       "semifinal": "",
