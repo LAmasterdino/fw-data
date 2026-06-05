@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T19:02:49.222Z",
+  "updatedAt": "2026-06-05T19:07:51.899Z",
   "eventName": "Turnier",
   "logoUrl": "",
-  "nextGroup": "",
-  "lastGroup": "",
+  "nextGroup": "TEst",
+  "lastGroup": "letzter ",
   "note": "",
   "groups": [
     {
