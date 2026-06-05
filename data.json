@@ -1,11 +1,10 @@
-{
-  "version": 1,
+"version": 1,
   "updatedAt": "2026-06-05T19:42:43.247Z",
-  "eventName": "Turnier",
+  "eventName": "Kuppelwettbewerb",
   "logoUrl": "",
-  "nextGroup": "Glitzer",
-  "lastGroup": "letzter ",
-  "note": "",
+  "nextGroup": "Nächster",
+  "lastGroup": "Letzter",
+  "note": "Keine Informationen",
   "groups": [
     {
       "id": "g1",
@@ -26,27 +25,27 @@
           "time": "56,78"
         }
       ],
-      "semifinal": "",
-      "thirdPlace": "",
-      "final": ""
+      "semifinal": "24",
+      "thirdPlace": "98",
+      "final": "999"
     },
     {
       "id": "g2",
-      "name": "Gruppe 2",
+      "name": "Test2",
       "qualified": true,
       "placement": 2,
       "heats": [
         {
           "label": "Lauf 1",
-          "time": ""
+          "time": "55,89"
         },
         {
           "label": "Lauf 2",
-          "time": ""
+          "time": "34,67"
         },
         {
           "label": "Lauf 3",
-          "time": ""
+          "time": "88,78"
         }
       ],
       "semifinal": "",
@@ -55,21 +54,21 @@
     },
     {
       "id": "g_p8bduzi_mq19uyoo",
-      "name": "Gruppe 3",
+      "name": "Test Fisch",
       "qualified": false,
       "placement": "3",
       "heats": [
         {
           "label": "Lauf 1",
-          "time": ""
+          "time": "23,1"
         },
         {
           "label": "Lauf 2",
-          "time": ""
+          "time": "44,77"
         },
         {
           "label": "Lauf 3",
-          "time": ""
+          "time": "33,77"
         }
       ],
       "semifinal": "",
