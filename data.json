@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T19:08:39.164Z",
+  "updatedAt": "2026-06-05T19:13:53.648Z",
   "eventName": "Turnier",
   "logoUrl": "",
   "nextGroup": "TEst",
@@ -19,7 +19,7 @@
         },
         {
           "label": "Lauf 2",
-          "time": ""
+          "time": "25,3"
         },
         {
           "label": "Lauf 3",
