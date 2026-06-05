@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T20:20:59.399Z",
+  "updatedAt": "2026-06-05T22:23:59.399Z",
   "eventName": "Turnier",
-  "logoUrl": "",
+  "logoUrl": "https://raw.githubusercontent.com/LAmasterdino/fw/refs/heads/main/LOGO.jpg",
   "nextGroup": "Glitzer",
   "lastGroup": "letzter",
   "note": "",
