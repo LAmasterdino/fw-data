@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T19:42:43.247Z",
+  "updatedAt": "2026-06-05T20:20:34.210Z",
   "eventName": "Turnier",
   "logoUrl": "",
   "nextGroup": "Glitzer",
-  "lastGroup": "letzter ",
+  "lastGroup": "letzter",
   "note": "",
   "groups": [
     {
       "id": "g1",
       "name": "GLitzer Gang",
-      "qualified": true,
+      "qualified": false,
       "placement": 1,
       "heats": [
         {
@@ -33,7 +33,7 @@
     {
       "id": "g2",
       "name": "Gruppe 2",
-      "qualified": true,
+      "qualified": false,
       "placement": 2,
       "heats": [
         {
