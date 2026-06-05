@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T22:23:59.399Z",
+  "updatedAt": "2026-06-05T20:25:10.717Z",
   "eventName": "Turnier",
   "logoUrl": "https://raw.githubusercontent.com/LAmasterdino/fw/refs/heads/main/LOGO.jpg",
   "nextGroup": "Glitzer",
@@ -32,7 +32,7 @@
     },
     {
       "id": "g2",
-      "name": "Gruppe 2",
+      "name": "Name",
       "qualified": true,
       "placement": 2,
       "heats": [
