@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-06T07:20:02.999Z",
+  "updatedAt": "2026-06-06T07:21:04.169Z",
   "eventName": "Turnier",
   "logoUrl": "https://raw.githubusercontent.com/LAmasterdino/fw/refs/heads/main/LOGO.jpg",
   "nextGroup": "Glitzer",
   "lastGroup": "letzter",
-  "note": "",
+  "note": "Ha0llo welt",
   "groups": [
     {
       "id": "g1",
@@ -46,7 +46,7 @@
         },
         {
           "label": "Lauf 3",
-          "time": ""
+          "time": "31,78"
         }
       ],
       "semifinal": "",
