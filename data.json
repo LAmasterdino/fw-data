@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-06T07:23:49.855Z",
+  "updatedAt": "2026-06-06T09:29:15.113Z",
   "eventName": "Turnier",
   "logoUrl": "https://raw.githubusercontent.com/LAmasterdino/fw/refs/heads/main/LOGO.jpg",
   "nextGroup": "Glitzer",
@@ -103,7 +103,7 @@
       "id": "g_yaqkgwg_mq1akgck",
       "name": "Gruppe 5",
       "qualified": true,
-      "placement": "",
+      "placement": "5",
       "heats": [
         {
           "label": "Lauf 1",
@@ -126,7 +126,7 @@
       "id": "g_cbx39rs_mq20lsia",
       "name": "Gruppe 6",
       "qualified": true,
-      "placement": "",
+      "placement": "6",
       "heats": [
         {
           "label": "Lauf 1",
