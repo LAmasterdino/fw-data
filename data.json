@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-06T07:11:54.854Z",
+  "updatedAt": "2026-06-06T07:18:48.717Z",
   "eventName": "Turnier",
   "logoUrl": "https://raw.githubusercontent.com/LAmasterdino/fw/refs/heads/main/LOGO.jpg",
   "nextGroup": "Glitzer",
@@ -42,7 +42,7 @@
         },
         {
           "label": "Lauf 2",
-          "time": ""
+          "time": "78,88"
         },
         {
           "label": "Lauf 3",
