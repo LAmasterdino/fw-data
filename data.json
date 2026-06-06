@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-06T07:22:07.674Z",
+  "updatedAt": "2026-06-06T07:23:49.855Z",
   "eventName": "Turnier",
   "logoUrl": "https://raw.githubusercontent.com/LAmasterdino/fw/refs/heads/main/LOGO.jpg",
   "nextGroup": "Glitzer",
   "lastGroup": "letzter",
-  "note": "",
+  "note": "Ha0llo welt",
   "groups": [
     {
       "id": "g1",
@@ -46,7 +46,7 @@
         },
         {
           "label": "Lauf 3",
-          "time": "56,67"
+          "time": "31,78"
         }
       ],
       "semifinal": "",
@@ -55,8 +55,8 @@
     },
     {
       "id": "g_p8bduzi_mq19uyoo",
-      "name": "Jemand",
-      "qualified": false,
+      "name": "Gruppe 3",
+      "qualified": true,
       "placement": "3",
       "heats": [
         {
@@ -79,7 +79,7 @@
     {
       "id": "g_iageukj_mq19w814",
       "name": "Gruppe 4",
-      "qualified": false,
+      "qualified": true,
       "placement": "4",
       "heats": [
         {
@@ -102,7 +102,7 @@
     {
       "id": "g_yaqkgwg_mq1akgck",
       "name": "Gruppe 5",
-      "qualified": false,
+      "qualified": true,
       "placement": "",
       "heats": [
         {
@@ -125,7 +125,7 @@
     {
       "id": "g_cbx39rs_mq20lsia",
       "name": "Gruppe 6",
-      "qualified": false,
+      "qualified": true,
       "placement": "",
       "heats": [
         {
